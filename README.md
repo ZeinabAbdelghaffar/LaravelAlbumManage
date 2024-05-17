@@ -91,24 +91,7 @@ Laravel Album Manager is open-source software licensed under the [MIT license](L
 
 Developed as a coding assessment task by Zeinab Abdelghafar.
 
-<div class="row p-4">
-    <div class="col-md-12">
-        <h5 class="text-center mb-4">Developed by Zeinab Abdelghafar</h5>
-    </div>
-    <div class="col-md-3 text-center mb-3">
-        <p>&#128241; Phone:</p>
-        <p><a href="tel:+201289939695" class="text-dark">+201289939695</a></p>
-    </div>
-    <div class="col-md-3 text-center mb-3">
-        <p>&#128231; Email:</p>
-        <p><a href="mailto:zeinanabdo88@gmail.com" class="text-dark">zeinanabdo88@gmail.com</a></p>
-    </div>
-    <div class="col-md-3 text-center mb-3">
-        <p>&#127760; LinkedIn:</p>
-        <p><a href="https://www.linkedin.com/in/zeinab-abdelghaffar/" target="_blank" class="text-dark">Zeinab Abdelghafar</a></p>
-    </div>
-    <div class="col-md-3 text-center mb-3">
-        <p>&#128193; GitHub:</p>
-        <p><a href="https://github.com/ZeinabAbdelghaffar" target="_blank" class="text-dark">ZeinabAbdelghaffar</a></p>
-    </div>
-</div>
+| **Developed by Zeinab Abdelghafar** |                   |                     |                  |
+|-------------------------------------|-------------------|---------------------|------------------|
+| 📱 Phone:                            | 📧 Email:          | 📞 LinkedIn:        | 📚 GitHub:       |
+| +201289939695                        | zeinanabdo88@gmail.com | Zeinab Abdelghafar | ZeinabAbdelghaffar |
