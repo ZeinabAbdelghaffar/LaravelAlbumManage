@@ -89,7 +89,7 @@ Laravel Album Manager is open-source software licensed under the [MIT license](L
 
 ---
 
-Developed as a coding assessment task by Zeinab Abdelghafar.
+Developed as a coding assessment task by **Zeinab Abdelghafar**.
 
 | **Developed by Zeinab Abdelghafar** |                   |                     |                  |
 |-------------------------------------|-------------------|---------------------|------------------|
